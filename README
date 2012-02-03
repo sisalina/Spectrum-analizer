@@ -1,0 +1,8 @@
+Analizador_de_espectros.pde ----------> Es el código a copiar en el Arduino IDE
+fourier.pde                 ----------> Es el código que sólo contiene la FFT
+Matlab_Arduino.pde          ----------> Es el código que permite controlar ARduino desde Matlab
+arduino.m                   ----------> Este archivo va en Matlab y sirve para ocupar Arduino desde Matlab
+
+Para ver este proyecto en su totalidad ve a http://555riente.blogspot.com/2010/12/analisis-de-fourier-parte-1.html
+
+Seabstian Salinas P.
